@@ -1,0 +1,9 @@
+::selection {
+    color: #bb2121;
+    background-color: antiquewhite;
+}
+
+body {
+    width: 60%;
+    margin: auto;
+}
